@@ -80,7 +80,6 @@ def decode(morse_code, tree)
   puts decode_words
 end
 
-
 decode('.-', tree)
 decode('-- -.--   -. .- -- .', tree)
 decode('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...', tree)
