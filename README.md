@@ -1,30 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -60,11 +35,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Decode a Morse code message <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+Let's not waste time, the pirate treasure awaits! Let's get to work.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,9 +73,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Run a program using the command line.**
+- **Use Ruby syntax for basic programming operations.**
+- **Use Ruby to solve basic coding challenges.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +83,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://www.onlinegdb.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,9 +91,10 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps:
+- Get a copy of the project
+- Come into the project directory
+- Open the project using code editor of your choice
 
 ### Prerequisites
 
@@ -205,17 +178,17 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Kibrewossen Yitbarek**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [akos](https://github.com/akos29)
+- Twitter: [kbson49](https://twitter.com/Kbson49)
+- LinkedIn: [Kibrewossen](https://www.linkedin.com/in/kibrewossen-yitbarek-bb587a18/)
 
-👤 **Author2**
+👤 **Sergiy Shkolnik**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [SergSkol](https://github.com/SergSkol)
+- Twitter: [@sps676](https://twitter.com/sps676)
+- LinkedIn: [SergSkol](https://www.linkedin.com/in/sergskol/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,11 +196,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Add UI**
+- [ ] **Add tests**
+- [ ] **Add styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +218,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please add stars!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,15 +228,13 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for learning!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
